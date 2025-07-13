@@ -4,7 +4,7 @@
   "OWNER_AGE": "30",
   "PRIFIX": ".",
   "MODE": "public",
-  "AUTO_REACT": "false",
+  "AUTO_REACT": "true",
   "ANTI_DELETE": "from",
   "ANTI_CALL": "true",
   "AUTO_REACT_STATUS": "true",
