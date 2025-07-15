@@ -21,5 +21,8 @@
   "MENU_LOGO": "https://files.catbox.moe/wdzt28.jpg",
   "ALIVE_LOGO": "https://files.catbox.moe/wdzt28.jpg",
   "ALIVE_MSG": "Golden Queen Mini Bot Online\n\n7#-#-#-*#\n\nhahahh` _¡_--wwwuwuuwuuuwww¥£¥¥¥¥_",
-  "VIMA_LAN": "SI"
+  "VIMA_LAN": "SI",
+  "AUTO_CHANNEL_SONG": "true",
+  "XNX_VIDEO": "false",
+  "CHANNEL_JID": "120363403369889012@newsletter"
 }
