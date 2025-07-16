@@ -6,7 +6,7 @@
   "MODE": "public",
   "AUTO_REACT": "false",
   "ANTI_DELETE": "owner",
-  "ANTI_CALL": "false",
+  "ANTI_CALL": "true",
   "AUTO_REACT_STATUS": "true",
   "AUTO_TYPING": "true",
   "AUTO_RECODING": "false",
