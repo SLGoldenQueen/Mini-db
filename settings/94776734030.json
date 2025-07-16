@@ -24,5 +24,7 @@
   "VIMA_LAN": "SI",
   "AUTO_CHANNEL_SONG": "true",
   "XNX_VIDEO": "false",
-  "CHANNEL_JID": "120363403369889012@newsletter"
+  "CHANNEL_JID": "120363403369889012@newsletter",
+  "CALL_REJECT_LIST": "",
+  "CALL_OPEN_LIST": "94767881838"
 }
