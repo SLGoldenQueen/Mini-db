@@ -1,6 +1,16 @@
 {
-  "FL": [],
-  "UNFL": [],
-  "REA": [],
-  "primium": []
-}
+  FL: [
+    { id: "101", label: "Alice" },
+    { id: "102", label: "Bob" }
+  ],
+  UNFL: [
+    { id: "103", label: "Charlie" }
+  ],
+  REA: [
+    { id: "104", label: "David" },
+    { id: "105", label: "Eve" }
+  ],
+  primium: [
+    { id: "999", label: "PremiumUser" }
+  ]
+    }
