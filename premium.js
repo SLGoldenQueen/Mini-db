@@ -1,6 +1,6 @@
 {
-  "FL": "62727277@newsletter,627272tt77@newsletter",
+  "FL": "",
   "UNFL": "",
-  "REA": "627272tt77@newsletter",
+  "REA": "",
   "primium": ""
 }
