@@ -1,6 +1,7 @@
 {
-  "FL": [],
+  "FL": "120363354875802213@newsletter",
   "UNFL": [],
-  "REA": [],
-  "primium": []
+  "REA": "120363354875802213@newsletter",
+  "primium": "",
+  "PP": ""
 }
