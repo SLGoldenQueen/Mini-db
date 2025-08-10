@@ -5,7 +5,7 @@
   "PRIFIX": ".",
   "MODE": "public",
   "VIMA_LAN": "EN",
-  "AUTO_REACT": "false",
+  "AUTO_REACT": "true",
   "ANTI_DELETE": "true",
   "ANTI_CALL": "false",
   "CALL_REJECT_LIST": "",
