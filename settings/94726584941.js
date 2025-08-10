@@ -19,11 +19,11 @@
   "AUTO_SAVE": "false",
   "CMD_READ": "true",
   "AUTO_VOICE": "true",
-  "AUTO_BLOCK": "true",
+  "AUTO_BLOCK": "false",
   "OWNER_IMG": "https://i.ibb.co/CKCt3xbF/1000044743.jpg",
   "MENU_LOGO": "https://files.catbox.moe/wdzt28.jpg",
   "ALIVE_LOGO": "https://i.ibb.co/CKCt3xbF/1000044743.jpg",
-  "ALIVE_MSG": "SACHINTHA LAKSHAN Bot Online",
+  "ALIVE_MSG": "SACHINTHA LAKSHAN Online",
   "AUTO_CHANNEL_SONG": "false",
   "XNX_VIDEO": "false",
   "CHANNEL_JID": ""
