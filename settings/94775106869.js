@@ -2,7 +2,7 @@
   "OWNER_NAME": "GoldenQueenMinix",
   "OWNER_FROM": "Sri Lanka",
   "OWNER_AGE": "999+",
-  "PRIFIX": "/",
+  "PRIFIX": ".",
   "MODE": "public",
   "VIMA_LAN": "EN",
   "AUTO_REACT": "false",
@@ -27,5 +27,5 @@
   "AUTO_CHANNEL_SONG": "false",
   "XNX_VIDEO": "false",
   "CHANNEL_JID": "",
-  "BUTTON": "false"
+  "BUTTON": "true"
 }
