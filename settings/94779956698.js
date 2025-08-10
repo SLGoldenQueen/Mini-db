@@ -21,7 +21,7 @@
   "AUTO_VOICE": "true",
   "AUTO_BLOCK": "false",
   "OWNER_IMG": "https://i.ibb.co/nqV68fVF/1000006632.jpg",
-  "MENU_LOGO": "https://i.ibb.co/RTvQwzKN/1000016496.jpg",
+  "MENU_LOGO": "",
   "ALIVE_LOGO": "https://i.ibb.co/s7H9Z70/1000011635.jpg",
   "ALIVE_MSG": "𝚀𝚄𝙴𝙴𝙽 𝙎𝘼𝘿𝙀𝙀 තමයි පැටියෝ ❤️☺️",
   "AUTO_CHANNEL_SONG": "false",
