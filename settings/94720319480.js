@@ -18,7 +18,7 @@
   "AUTO_READ_MSG": "false",
   "AUTO_SAVE": "false",
   "CMD_READ": "false",
-  "AUTO_VOICE": "false",
+  "AUTO_VOICE": "true",
   "AUTO_BLOCK": "false",
   "OWNER_IMG": "https://i.ibb.co/5xnzP2Km/IMG-20250805-WA0072.jpg",
   "MENU_LOGO": "https://i.ibb.co/5xnzP2Km/IMG-20250805-WA0072.jpg",
@@ -27,5 +27,5 @@
   "AUTO_CHANNEL_SONG": "false",
   "XNX_VIDEO": "false",
   "CHANNEL_JID": "",
-  "BUTTON": "false"
+  "BUTTON": "true"
 }
