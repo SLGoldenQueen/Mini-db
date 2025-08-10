@@ -1,7 +1,7 @@
 {
-  "OWNER_NAME": "sura",
+  "OWNER_NAME": "VIMAMODS",
   "OWNER_FROM": "galle",
-  "OWNER_AGE": "27",
+  "OWNER_AGE": "30",
   "PRIFIX": ".",
   "MODE": "public",
   "VIMA_LAN": "SI",
@@ -23,8 +23,9 @@
   "OWNER_IMG": "https://i.ibb.co/5xnzP2Km/IMG-20250805-WA0072.jpg",
   "MENU_LOGO": "https://i.ibb.co/5xnzP2Km/IMG-20250805-WA0072.jpg",
   "ALIVE_LOGO": "https://files.catbox.moe/wdzt28.jpg",
-  "ALIVE_MSG": "`⭕GOLDEN QUEEN MINI BOT⭕`\n\n*• GOLDEN QUEEN TEAM එකේ අලුත්ම Project එකක් විදිහට Golden Queen mini Bot  Released Now❗❗*\n\n*•100% Free & Auto Connected*\n*•100% Not Privacy Isues*\n*•100% Safe*\n*•Many Features*\n\n*ඔබ Bot Linked device  කරගත් පසු විනාඩි 10 ඇතුලත Deploy වෙයි.විනාඩී 10යකට පසු Deploy වී නොමැතිනම් නැවත් Linked Device  කරගන්න*😋💐\n\n`𝙶𝚀𝚄𝙴𝙴𝙽 𝙼𝙸𝙽𝙸 𝚆𝙴𝙱𝚂𝙸𝚃𝙴`:- \nhttps://ccbmm-3ade7a6a39ba.herokuapp.com\n\n> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢᴏʟᴅᴇɴ Qᴜᴇᴇɴ ᴛᴇᴀᴍ",
+  "ALIVE_MSG": "`⭕GOLDEN QUEEN MINI BOT⭕`\n\n*• GOLDEN QUEEN TEAM එකේ අලුත්ම Project එකක් විදිහට Golden Queen mini Bot  Released Now❗❗*\n\n*•100% Free & Auto Connected*\n*•100% Not Privacy Isues*\n*•100% Safe*\n*•Many Features*\n\n*ඔබ Bot Linked device  කරගත් පසු විනාඩි 10 ඇතුලත Deploy වෙයි.විනාඩී 10යකට පසු Deploy වී නොමැතිනම් නැවත් Linked Device  කරගන්න*😋💐\n\n`𝙶𝚀𝚄𝙴𝙴𝙽 𝙼𝙸𝙽𝙸 𝚆𝙴𝙱𝚂𝙸𝚃𝙴`:- \nhttps://ccbmm-3ade7a6a39ba.herokuapp.com\n\n> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢᴏʟᴅᴇɴ Qᴜᴇᴇɴ ᴛᴇᴀᴍ\n",
   "AUTO_CHANNEL_SONG": "false",
   "XNX_VIDEO": "false",
-  "CHANNEL_JID": ""
+  "CHANNEL_JID": "",
+  "BUTTON": "false"
 }
