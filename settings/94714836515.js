@@ -1,5 +1,5 @@
 {
-  "OWNER_NAME": "GoldenQueenMinix",
+  "OWNER_NAME": "𝗧𝗛𝗔𝗥𝗨𝗦𝗛𝗔ᵀᴹ",
   "OWNER_FROM": "Sri Lanka",
   "OWNER_AGE": "19",
   "PRIFIX": ".",
@@ -20,7 +20,7 @@
   "CMD_READ": "true",
   "AUTO_VOICE": "false",
   "AUTO_BLOCK": "false",
-  "OWNER_IMG": "https://i.ibb.co/kVc97DXy/1754315113914.jpg",
+  "OWNER_IMG": "https://files.catbox.moe/wdzt28.jpg",
   "MENU_LOGO": "https://files.catbox.moe/wdzt28.jpg",
   "ALIVE_LOGO": "https://files.catbox.moe/wdzt28.jpg",
   "ALIVE_MSG": "Golden Queen Mini Bot Online",
