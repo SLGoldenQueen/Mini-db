@@ -19,7 +19,7 @@
   "AUTO_SAVE": "true",
   "CMD_READ": "true",
   "AUTO_VOICE": "true",
-  "AUTO_BLOCK": "false",
+  "AUTO_BLOCK": "true",
   "OWNER_IMG": "https://files.catbox.moe/wdzt28.jpg",
   "MENU_LOGO": "https://files.catbox.moe/wdzt28.jpg",
   "ALIVE_LOGO": "https://files.catbox.moe/wdzt28.jpg",
