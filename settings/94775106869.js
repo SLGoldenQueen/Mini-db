@@ -23,7 +23,7 @@
   "OWNER_IMG": "https://files.catbox.moe/wdzt28.jpg",
   "MENU_LOGO": "https://files.catbox.moe/wdzt28.jpg",
   "ALIVE_LOGO": "https://files.catbox.moe/wdzt28.jpg",
-  "ALIVE_MSG": "මොකො හුත්තො වද දෙන්නෙ 🫩",
+  "ALIVE_MSG": "*_මොකො හුත්තො වද දෙන්නෙ.. 🫩_*",
   "AUTO_CHANNEL_SONG": "false",
   "XNX_VIDEO": "false",
   "CHANNEL_JID": "",
