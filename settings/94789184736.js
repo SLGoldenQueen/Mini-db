@@ -1,7 +1,7 @@
 {
-  "OWNER_NAME": "ᴅɪᴍᴀ ʙʙʜ",
+  "OWNER_NAME": "ᴅɪᴍᴀ ʙʙʜ 💋🤍",
   "OWNER_FROM": "Hᴏᴍᴀɢᴀᴍᴀ",
-  "OWNER_AGE": "999+",
+  "OWNER_AGE": "15",
   "PRIFIX": ".",
   "MODE": "public",
   "VIMA_LAN": "EN",
@@ -11,7 +11,7 @@
   "CALL_REJECT_LIST": "",
   "CALL_OPEN_LIST": "",
   "AUTO_REACT_STATUS": "true",
-  "AUTO_TYPING": "false",
+  "AUTO_TYPING": "true",
   "AUTO_RECODING": "true",
   "ALWAYS_ONLINE": "true",
   "AUTO_READ_STATUS": "true",
