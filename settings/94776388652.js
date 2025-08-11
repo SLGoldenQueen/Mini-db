@@ -1,6 +1,6 @@
 {
   "OWNER_NAME": "GoldenQueenMinix",
-  "OWNER_FROM": "Sri Lanka",
+  "OWNER_FROM": "*රිටිගල* - `LAND OFAHASONA`",
   "OWNER_AGE": "16",
   "PRIFIX": ".",
   "MODE": "public",
@@ -13,7 +13,7 @@
   "AUTO_REACT_STATUS": "true",
   "AUTO_TYPING": "true",
   "AUTO_RECODING": "true",
-  "ALWAYS_ONLINE": "true",
+  "ALWAYS_ONLINE": "false",
   "AUTO_READ_STATUS": "true",
   "AUTO_READ_MSG": "false",
   "AUTO_SAVE": "false",
