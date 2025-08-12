@@ -1,6 +1,6 @@
 {
   "OWNER_NAME": "𝙸𝚁𝙲 𝗠𝐚𝐥𝐢𝐲𝐚",
-  "OWNER_FROM": "Sri Lanka",
+  "OWNER_FROM": "හෙම්මාතගම",
   "OWNER_AGE": "17",
   "PRIFIX": ".",
   "MODE": "public",
@@ -21,10 +21,11 @@
   "AUTO_VOICE": "true",
   "AUTO_BLOCK": "false",
   "OWNER_IMG": "https://i.ibb.co/vx55y4hW/1000758821.jpg",
-  "MENU_LOGO": "https://i.ibb.co/2YP3P4Vq/1000758764.jpg",
-  "ALIVE_LOGO": "https://i.ibb.co/2YP3P4Vq/1000758764.jpg",
+  "MENU_LOGO": "https://i.ibb.co/vx55y4hW/1000758821.jpg",
+  "ALIVE_LOGO": "https://i.ibb.co/vx55y4hW/1000758821.jpg",
   "ALIVE_MSG": "𝙸𝚁𝙲 𝗠𝐚𝐥𝐢𝐲𝐚 Mini Bot Online",
   "AUTO_CHANNEL_SONG": "false",
   "XNX_VIDEO": "false",
-  "CHANNEL_JID": ""
+  "CHANNEL_JID": "",
+  "BOT_BLOCK_LIST": ""
 }
