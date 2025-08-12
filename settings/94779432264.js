@@ -4,7 +4,7 @@
   "OWNER_AGE": "18",
   "PRIFIX": ".",
   "MODE": "public",
-  "VIMA_LAN": "SI",
+  "VIMA_LAN": "EN",
   "AUTO_REACT": "true",
   "ANTI_DELETE": "true",
   "ANTI_CALL": "false",
