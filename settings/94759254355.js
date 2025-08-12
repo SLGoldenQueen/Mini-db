@@ -3,7 +3,7 @@
   "OWNER_FROM": "Sri Lanka",
   "OWNER_AGE": "18",
   "PRIFIX": ",",
-  "MODE": "private",
+  "MODE": "public",
   "VIMA_LAN": "SI",
   "AUTO_REACT": "true",
   "ANTI_DELETE": "owner",
