@@ -18,7 +18,7 @@
   "AUTO_READ_MSG": "false",
   "AUTO_SAVE": "false",
   "CMD_READ": "true",
-  "AUTO_VOICE": "false",
+  "AUTO_VOICE": "true",
   "AUTO_BLOCK": "false",
   "OWNER_IMG": "https://files.catbox.moe/wdzt28.jpg",
   "MENU_LOGO": "https://i.ibb.co/5x5pG4X3/SulaMd.jpg",
