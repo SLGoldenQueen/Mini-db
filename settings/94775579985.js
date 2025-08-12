@@ -13,7 +13,7 @@
   "AUTO_REACT_STATUS": "true",
   "AUTO_TYPING": "false",
   "AUTO_RECODING": "false",
-  "ALWAYS_ONLINE": "false",
+  "ALWAYS_ONLINE": "true",
   "AUTO_READ_STATUS": "true",
   "AUTO_READ_MSG": "false",
   "AUTO_SAVE": "false",
