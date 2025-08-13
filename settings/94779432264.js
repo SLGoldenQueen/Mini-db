@@ -23,7 +23,7 @@
   "OWNER_IMG": "https://files.catbox.moe/wdzt28.jpg",
   "MENU_LOGO": "https://images.app.goo.gl/nHkoswbz6Faspjbg8",
   "ALIVE_LOGO": "https://files.catbox.moe/wdzt28.jpg",
-  "ALIVE_MSG": "Welcome to\nMimsara",
+  "ALIVE_MSG": "*My name is-:Nethma💔(King Of System 👑)*\n\n*Im from-:Sri Lanka 🇱🇰*\n\n*I can help you🤜*\n\n           -mimsara-",
   "AUTO_CHANNEL_SONG": "false",
   "XNX_VIDEO": "false",
   "CHANNEL_JID": ""
