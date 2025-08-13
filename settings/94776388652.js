@@ -3,7 +3,7 @@
   "OWNER_FROM": "Land of mahasona",
   "OWNER_AGE": "17",
   "PRIFIX": ".",
-  "MODE": "public",
+  "MODE": "private",
   "VIMA_LAN": "EN",
   "AUTO_REACT": "false",
   "ANTI_DELETE": "true",
