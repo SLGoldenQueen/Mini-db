@@ -26,5 +26,6 @@
   "ALIVE_MSG": "Golden Queen Mini Bot Online",
   "AUTO_CHANNEL_SONG": "false",
   "XNX_VIDEO": "false",
-  "CHANNEL_JID": ""
+  "CHANNEL_JID": "",
+  "BUTTON": "false"
 }
