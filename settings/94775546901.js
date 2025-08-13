@@ -1,7 +1,7 @@
 {
   "OWNER_NAME": "GoldenQueenMinix",
   "OWNER_FROM": "Sri Lanka",
-  "OWNER_AGE": "999+",
+  "OWNER_AGE": "17",
   "PRIFIX": ".",
   "MODE": "public",
   "VIMA_LAN": "EN",
