@@ -20,7 +20,7 @@
   "CMD_READ": "false",
   "AUTO_VOICE": "true",
   "AUTO_BLOCK": "false",
-  "OWNER_IMG": "https://files.catbox.moe/wdzt28.jpg",
+  "OWNER_IMG": "https://i.ibb.co/yFm7HmQ0/Photo-1755088216713.png",
   "MENU_LOGO": "https://files.catbox.moe/wdzt28.jpg",
   "ALIVE_LOGO": "https://files.catbox.moe/wdzt28.jpg",
   "ALIVE_MSG": "Golden Queen Mini Bot Online",
