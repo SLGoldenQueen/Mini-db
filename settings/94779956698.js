@@ -12,7 +12,7 @@
   "CALL_OPEN_LIST": "",
   "AUTO_REACT_STATUS": "true",
   "AUTO_TYPING": "false",
-  "AUTO_RECODING": "true",
+  "AUTO_RECODING": "false",
   "ALWAYS_ONLINE": "true",
   "AUTO_READ_STATUS": "true",
   "AUTO_READ_MSG": "true",
