@@ -5,7 +5,7 @@
   "PRIFIX": ".",
   "MODE": "private",
   "VIMA_LAN": "EN",
-  "AUTO_REACT": "true",
+  "AUTO_REACT": "false",
   "ANTI_DELETE": "owner",
   "ANTI_CALL": "true",
   "CALL_REJECT_LIST": "",
