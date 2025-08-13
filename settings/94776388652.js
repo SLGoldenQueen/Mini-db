@@ -18,7 +18,7 @@
   "AUTO_READ_MSG": "false",
   "AUTO_SAVE": "false",
   "CMD_READ": "false",
-  "AUTO_VOICE": "false",
+  "AUTO_VOICE": "true",
   "AUTO_BLOCK": "false",
   "OWNER_IMG": "https://i.ibb.co/6JwRJkv8/1000047815.jpg",
   "MENU_LOGO": "https://i.ibb.co/6JwRJkv8/1000047815.jpg",
