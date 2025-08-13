@@ -1,6 +1,6 @@
 {
   "OWNER_NAME": "𝙸𝚁𝙲 𝗠𝐚𝐥𝐢𝐲𝐚",
-  "OWNER_FROM": "හෙම්මාතගම",
+  "OWNER_FROM": "ගම්පොළ ",
   "OWNER_AGE": "17",
   "PRIFIX": ".",
   "MODE": "public",
@@ -11,7 +11,7 @@
   "CALL_REJECT_LIST": "",
   "CALL_OPEN_LIST": "",
   "AUTO_REACT_STATUS": "true",
-  "AUTO_TYPING": "false",
+  "AUTO_TYPING": "true",
   "AUTO_RECODING": "true",
   "ALWAYS_ONLINE": "true",
   "AUTO_READ_STATUS": "true",
