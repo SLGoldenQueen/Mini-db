@@ -21,7 +21,7 @@
   "AUTO_VOICE": "true",
   "AUTO_BLOCK": "false",
   "OWNER_IMG": "https://i.ibb.co/8gxpPX9q/Screenshot-20250813-191441.jpg",
-  "MENU_LOGO": "https://i.ibb.co/RkF6G9bJ/IMG-20250813-WA0067-1.jpg",
+  "MENU_LOGO": "https://i.ibb.co/99xdkx8W/IMG-20250814-WA0077.jpg",
   "ALIVE_LOGO": "https://files.catbox.moe/wdzt28.jpg",
   "ALIVE_MSG": "Golden Queen Mini Bot Online",
   "AUTO_CHANNEL_SONG": "false",
