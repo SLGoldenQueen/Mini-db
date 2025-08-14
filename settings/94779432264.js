@@ -14,7 +14,7 @@
   "AUTO_TYPING": "true",
   "AUTO_RECODING": "false",
   "ALWAYS_ONLINE": "true",
-  "AUTO_READ_STATUS": "false",
+  "AUTO_READ_STATUS": "true",
   "AUTO_READ_MSG": "false",
   "AUTO_SAVE": "false",
   "CMD_READ": "true",
