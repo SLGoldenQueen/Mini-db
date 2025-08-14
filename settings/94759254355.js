@@ -3,7 +3,7 @@
   "OWNER_FROM": "Sri Lanka",
   "OWNER_AGE": "18",
   "PRIFIX": ",",
-  "MODE": "public",
+  "MODE": "private",
   "VIMA_LAN": "SI",
   "AUTO_REACT": "true",
   "ANTI_DELETE": "owner",
@@ -23,7 +23,7 @@
   "OWNER_IMG": "https://files.catbox.moe/wdzt28.jpg",
   "MENU_LOGO": "https://files.catbox.moe/wdzt28.jpg",
   "ALIVE_LOGO": "https://files.catbox.moe/wdzt28.jpg",
-  "ALIVE_MSG": "Golden Queen Mini Bot Online",
+  "ALIVE_MSG": "Golden Queen Mini Bot Online\nඔබව සාදරෙයෙන් ISURU S DISSANAYAKE ගේ බොට් වෙත සාදරෙන් පිලිගන්නවා❤️💀",
   "AUTO_CHANNEL_SONG": "false",
   "XNX_VIDEO": "false",
   "CHANNEL_JID": ""
