@@ -22,7 +22,7 @@
   "AUTO_BLOCK": "false",
   "OWNER_IMG": "https://i.ibb.co/WrGc2Ft/1000016553.jpg",
   "MENU_LOGO": "https://i.ibb.co/jkcPTrGQ/1000017784.jpg",
-  "ALIVE_LOGO": "https://i.ibb.co/chqdhx3L/1000016552.jpg",
+  "ALIVE_LOGO": "https://i.ibb.co/cK06m30b/1000017797.jpg",
   "ALIVE_MSG": "𝚀𝚄𝙴𝙴𝙽 𝙎𝘼𝘿𝙀𝙀 md -bot තමයි පැටියෝ 🥰",
   "AUTO_CHANNEL_SONG": "false",
   "XNX_VIDEO": "false",
