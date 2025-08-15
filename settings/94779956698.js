@@ -7,7 +7,7 @@
   "VIMA_LAN": "SI",
   "AUTO_REACT": "true",
   "ANTI_DELETE": "true",
-  "ANTI_CALL": "true",
+  "ANTI_CALL": "false",
   "CALL_REJECT_LIST": "",
   "CALL_OPEN_LIST": "",
   "AUTO_REACT_STATUS": "true",
