@@ -15,7 +15,7 @@
   "AUTO_RECODING": "true",
   "ALWAYS_ONLINE": "true",
   "AUTO_READ_STATUS": "true",
-  "AUTO_READ_MSG": "true",
+  "AUTO_READ_MSG": "false",
   "AUTO_SAVE": "true",
   "CMD_READ": "true",
   "AUTO_VOICE": "true",
