@@ -11,7 +11,7 @@
   "CALL_REJECT_LIST": "",
   "CALL_OPEN_LIST": "",
   "AUTO_REACT_STATUS": "true",
-  "AUTO_TYPING": "false",
+  "AUTO_TYPING": "true",
   "AUTO_RECODING": "false",
   "ALWAYS_ONLINE": "false",
   "AUTO_READ_STATUS": "true",
