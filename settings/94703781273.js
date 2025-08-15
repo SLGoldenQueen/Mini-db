@@ -17,7 +17,7 @@
   "AUTO_READ_STATUS": "true",
   "AUTO_READ_MSG": "false",
   "AUTO_SAVE": "false",
-  "CMD_READ": "false",
+  "CMD_READ": "true",
   "AUTO_VOICE": "true",
   "AUTO_BLOCK": "false",
   "OWNER_IMG": "https://files.catbox.moe/wdzt28.jpg",
