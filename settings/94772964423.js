@@ -1,7 +1,7 @@
 {
-  "OWNER_NAME": "GoldenQueenMinix",
+  "OWNER_NAME": "poornima ",
   "OWNER_FROM": "Sri Lanka",
-  "OWNER_AGE": "18",
+  "OWNER_AGE": "19",
   "PRIFIX": ".",
   "MODE": "public",
   "VIMA_LAN": "EN",
@@ -18,7 +18,7 @@
   "AUTO_READ_MSG": "true",
   "AUTO_SAVE": "true",
   "CMD_READ": "true",
-  "AUTO_VOICE": "true",
+  "AUTO_VOICE": "false",
   "AUTO_BLOCK": "false",
   "OWNER_IMG": "https://files.catbox.moe/wdzt28.jpg",
   "MENU_LOGO": "https://files.catbox.moe/wdzt28.jpg",
