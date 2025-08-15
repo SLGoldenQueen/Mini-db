@@ -10,7 +10,7 @@
   "ANTI_CALL": "false",
   "CALL_REJECT_LIST": "",
   "CALL_OPEN_LIST": "",
-  "AUTO_REACT_STATUS": "false",
+  "AUTO_REACT_STATUS": "true",
   "AUTO_TYPING": "false",
   "AUTO_RECODING": "false",
   "ALWAYS_ONLINE": "false",
