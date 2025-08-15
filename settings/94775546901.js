@@ -27,5 +27,5 @@
   "AUTO_CHANNEL_SONG": "false",
   "XNX_VIDEO": "false",
   "CHANNEL_JID": "",
-  "BUTTON": "true"
+  "BUTTON": "false"
 }
