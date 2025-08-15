@@ -1,5 +1,5 @@
 {
-  "OWNER_NAME": "GoldenQueenMinix",
+  "OWNER_NAME": "Roshe Tharusha",
   "OWNER_FROM": "Sri Lanka",
   "OWNER_AGE": "22",
   "PRIFIX": ".",
