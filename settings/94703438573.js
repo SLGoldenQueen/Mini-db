@@ -2,7 +2,7 @@
   "OWNER_NAME": "G̶a̶y̶a̶n̶ P̶r̶o̶g̶r̶a̶m̶e̶r̶☠️",
   "OWNER_FROM": "Sri Lanka",
   "OWNER_AGE": "17",
-  "PRIFIX": "@",
+  "PRIFIX": ",",
   "MODE": "public",
   "VIMA_LAN": "EN",
   "AUTO_REACT": "true",
