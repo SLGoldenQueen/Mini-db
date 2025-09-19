@@ -1,8 +1,8 @@
 {
   "ownerNumber": "94779950690",
-  "autoTyping": false,
+  "autoTyping": true,
   "autoRecording": false,
   "antiDelete": true,
-  "statusRead": false,
-  "statusReact": false
+  "statusRead": true,
+  "statusReact": true
 }
