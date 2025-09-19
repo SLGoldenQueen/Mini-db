@@ -3,7 +3,10 @@
   "autoTyping": false,
   "autoRecording": false,
   "antiDelete": false,
-  "statusRead": true,
-  "statusReact": true,
-  "alwaysOnline": true
+  "statusRead": false,
+  "statusReact": false,
+  "alwaysOnline": false,
+  "ownerName": "",
+  "ownerAge": "",
+  "ownerFrom": ""
 }
