@@ -4,5 +4,9 @@
   "autoRecording": false,
   "antiDelete": true,
   "statusRead": true,
-  "statusReact": true
+  "statusReact": true,
+  "ownerName": "Sura",
+  "ownerAge": "28",
+  "ownerFrom": "Galle",
+  "alwaysOnline": true
 }
