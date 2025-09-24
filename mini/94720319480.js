@@ -1,8 +1,8 @@
 {
   "ownerNumber": "94720319480",
-  "ownerName": "",
-  "ownerAge": "",
-  "ownerFrom": "",
+  "ownerName": "Sura",
+  "ownerAge": "28",
+  "ownerFrom": "Galle",
   "autoTyping": true,
   "autoRecording": false,
   "antiDelete": true,
