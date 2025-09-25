@@ -1,8 +1,8 @@
 {
   "ownerNumber": "94767881838",
-  "ownerName": "Dushan",
-  "ownerAge": "60",
-  "ownerFrom": "somaliya",
+  "ownerName": "Zyra",
+  "ownerAge": "90",
+  "ownerFrom": "Kakkigama",
   "autoTyping": false,
   "autoRecording": true,
   "antiDelete": true,
