@@ -1,8 +1,8 @@
 {
   "ownerNumber": "94722474119",
-  "ownerName": "gggg",
-  "ownerAge": "56",
-  "ownerFrom": "Yyyh",
+  "ownerName": "Vima",
+  "ownerAge": "555",
+  "ownerFrom": "Galle",
   "autoTyping": true,
   "autoRecording": false,
   "antiDelete": true,
