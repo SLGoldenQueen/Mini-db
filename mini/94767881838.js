@@ -1,8 +1,8 @@
 {
   "ownerNumber": "94767881838",
-  "ownerName": "Adhi",
-  "ownerAge": "91",
-  "ownerFrom": "India",
+  "ownerName": "Dula",
+  "ownerAge": "99",
+  "ownerFrom": "pakistan",
   "autoTyping": false,
   "autoRecording": true,
   "antiDelete": true,
