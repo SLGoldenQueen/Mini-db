@@ -1,8 +1,8 @@
 {
   "ownerNumber": "94767881838",
-  "ownerName": "Dula",
-  "ownerAge": "99",
-  "ownerFrom": "pakistan",
+  "ownerName": "D",
+  "ownerAge": "20",
+  "ownerFrom": "kandy",
   "autoTyping": false,
   "autoRecording": true,
   "antiDelete": true,
